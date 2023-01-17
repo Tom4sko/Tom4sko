@@ -11,7 +11,7 @@ import data from "./components/data";
 
 const Tom4sko = () => {
   return (
-    <div className="aboutMe">
+    <div className="about-me">
         <h2> {name} </h2>
         <p> {age} <p>
         <p> {position} <p>
