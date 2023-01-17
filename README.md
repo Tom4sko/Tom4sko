@@ -11,15 +11,15 @@ export default data;
 
 import data from "./components/data";
 
-const Tom4sko = () => {
+const tom4sko = () => {
   return (
-    <div className="me">
+    <div className="aboutMe">
         <h2> {name} </h2>
         <p> {age} <p>
         <p> {position} <p>
     </div>
 )
-export default Tom4sko;
+export default tom4sko;
 ```
 *****
 
