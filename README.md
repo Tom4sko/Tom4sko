@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomáš Zeleňák</h1>
 <h3 align="center">A passionate FrontEnd Web & App developer driven by motivation and desire the new field inside and out.</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/132194/screenshots/3143314/media/05e882387868847f87e2855f106e2d4a.gif" />
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tom4sko" alt="tom4sko" /></a> </p>
-
-- 🌱 I’m currently learning **React, ReactNative and improve in general**
 
 - 📫 How to reach me **https://tomaszelenak.eu/**
 
