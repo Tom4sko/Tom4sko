@@ -7,7 +7,7 @@ const data = [
 export default data;
 
 
-import data from ".components/data";
+import data from "./components/data";
 
 const Tom4sko = () => {
   return (
@@ -17,7 +17,6 @@ const Tom4sko = () => {
         <p> {position} <p>
     </div>
 )
-
 export default Tom4sko;
 ```
 *****
