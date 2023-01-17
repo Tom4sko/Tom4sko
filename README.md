@@ -1,17 +1,15 @@
 ```js
 const data = [
- {
   name: "Tomáš Zeleňák",
   age: 19,
   position: "Front-End Web & App Dev",
- },
 ]
 export default data;
 
 
 import data from "./components/data";
 
-const tom4sko = () => {
+const Tom4sko = () => {
   return (
     <div className="aboutMe">
         <h2> {name} </h2>
@@ -19,7 +17,7 @@ const tom4sko = () => {
         <p> {position} <p>
     </div>
 )
-export default tom4sko;
+export default Tom4sko;
 ```
 *****
 
