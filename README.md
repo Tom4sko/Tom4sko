@@ -16,7 +16,8 @@ const Tom4sko = () => {
         <p> {age} <p>
         <p> {position} <p>
     </div>
-)
+  )
+}
 export default Tom4sko;
 ```
 *****
