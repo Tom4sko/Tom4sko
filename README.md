@@ -2,7 +2,7 @@
 const data = [
  {
   name: "Tomáš Zeleňák",
-  age: "19",
+  age: 19,
   position: "Front-End Web & App Dev",
  },
 ]
@@ -14,7 +14,7 @@ import data from "./components/data";
 const Tom4sko = () => {
   return (
     <div className="me">
-        <h2> {name} <h/2>
+        <h2> {name} </h2>
         <p> {age} <p>
         <p> {position} <p>
     </div>
