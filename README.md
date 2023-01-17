@@ -1,8 +1,8 @@
 ```js
 const data = [
-  name: "Tomáš Zeleňák";
-  age: "19";
-  position: "Front-End Web & App Dev";
+  name: "Tomáš Zeleňák",
+  age: "19",
+  position: "Front-End Web & App Dev",
 ]
 export default data;
 
