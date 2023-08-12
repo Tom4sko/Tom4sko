@@ -2,7 +2,7 @@
 const data = [
   name: "Tomáš Zeleňák",
   age: 20,
-  position: "Front-End Web & App Dev",
+  position: "Junior Software Engineer",
 ]
 export default data;
 
