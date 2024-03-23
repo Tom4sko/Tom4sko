@@ -1,8 +1,8 @@
 ```js
 const data = [
   name: "Tomáš Zeleňák",
-  age: 20,
-  position: "Junior Software Engineer",
+  age: 21,
+  position: "FrontEnd Developer",
 ]
 export default data;
 
