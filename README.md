@@ -1,25 +1,30 @@
+
+![javascript](https://github.com/user-attachments/assets/a955abbb-53bd-4040-9954-c4d1770799f3)
+
+<div align="center">
+  
+  # **Hello 👋, I'm Tomáš**
+  
+</div>
+
 ```js
-const data = [
-  name: "Tomáš Zeleňák",
-  age: 21,
-  position: "FrontEnd Developer",
-]
-export default data;
-
-
-import data from "../components/data";
-
-const Tom4sko = () => {
+const AboutMe = () => {
   return (
-    <div className="about-me">
-        <h2> {name} </h2>
-        <p> {age} </p>
-        <p> {position} </p>
+    <div className="text-center py-6">
+      <p className="text-xl font-semibold mb-4">🎯 My Interests:</p>
+      <ul className="list-disc list-inside text-lg space-y-2">
+        <li>Developing Mobile Applications 📱</li>
+        <li>Studying Computer Science at University 🎓</li>
+        <li>Passionate about Application User Experience ⚙️</li>
+      </ul>
     </div>
-  )
-}
-export default Tom4sko;
+  );
+};
+
+export default AboutMe;
 ```
+# Reach On Me:
+<a href="https://www.linkedin.com/in/tomaszelenak/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.instagram.com/z.tomino/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> </div>
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom4sko&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
