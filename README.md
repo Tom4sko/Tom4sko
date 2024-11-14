@@ -24,9 +24,17 @@ const AboutMe = () => {
 export default AboutMe;
 ```
 # Reach On Me:
-<a href="https://www.linkedin.com/in/tomaszelenak/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.instagram.com/z.tomino/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> </div>
+<a href="https://www.linkedin.com/in/tomaszelenak/" target="_blank"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="160" height="40" />
+</a> 
+
+<a href="https://www.tomaszelenak.com/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=black&color=FFCC00" alt="Website" width="160" height="40" />
+</a>
+
+<a href="https://www.instagram.com/z.tomino/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="160" height="40" />
+</a> 
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom4sko&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
