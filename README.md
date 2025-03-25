@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><samp>Hello 👋, I'm Tomáš. I make mobile apps and sometimes mess around with web stuff too. Just building cool things and having fun along the way!📱🌐</samp></h3>
+  <h4><samp>Hello 👋, I'm Tomáš. I make mobile apps and sometimes mess around with web stuff too. Just building cool things and having fun along the way!📱🌐</samp></h4>
 </div>
 
 <br/>
