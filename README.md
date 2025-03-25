@@ -1,5 +1,5 @@
 <div align="center">
-  <samp>Hello 👋, I'm Tomáš. I make mobile apps📱 and sometimes mess around with web🌐 stuff too. Just building cool things and having fun along the way!</samp>
+  <h3><samp>Hello 👋, I'm Tomáš. I make mobile apps and sometimes mess around with web stuff too. Just building cool things and having fun along the way!📱🌐</samp></h3>
 </div>
 
 <br/>
@@ -23,5 +23,5 @@
 </div>
 
 <div align="center">
-  <samp>Check out my work⬇️</samp>
+  <h4><samp>Check out my work⬇️</samp></h4>
 </div>
